@@ -3,9 +3,9 @@ Collection of notable sorting algorithms implemented in python, just a practice 
 
 # List of algorithms to include:
 
-Selection Sort - In Progress
+Selection Sort - Complete
 
-Bubble Sort - In Progress
+Bubble Sort - Complete
 
 Insertion Sort - In Progress
 
